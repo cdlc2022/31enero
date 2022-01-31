@@ -1,0 +1,26 @@
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+.fila1 {
+    background-color: blue;
+    height: 50PX;
+}
+.fila2 {
+    background-color: rgb(58, 58, 112);
+    height: 50PX;
+}
+.der {
+    background-color: cyan;
+    width: 100px;
+    height: 20px;
+    float:right;
+    margin: 0 20px;
+}
+.izq {
+    background-color: rgb(0, 255, 0);
+    width: 100px;
+    height: 20px;
+    float:left;
+    margin: 0 20px;
+}
